@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FSAE Footprints Library")(type "KiCad")(uri "/Users/kolmanputerman/Documents/KiCad/8.0/footprints/FSAE Footprints Library.pretty")(options "")(descr ""))
+)

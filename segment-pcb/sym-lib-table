@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FSAE_Symbols_Library")(type "KiCad")(uri "/Users/kolmanputerman/Documents/KiCad/8.0/symbols/FSAE_Symbols_Library.kicad_sym")(options "")(descr ""))
+)
