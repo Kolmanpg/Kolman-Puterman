@@ -13,7 +13,7 @@ I am an Electrical Engineering student with a minor in Computer Engineering at P
   - Custom power delivery architecture with multi-stage voltage regulation to ensure maximum efficiency.
   - Integration of high-speed components on the same board as sensitive analog circuits.
   - Integration of multiple safety circuits as required by the rulebook.
-- **3D Renderings:**
+- **3D Rendering:**
 ![Megaboard Front V3](https://github.com/user-attachments/assets/115daf0d-7c6d-44a5-9827-917bca8734d9)
 
 ### 2. **Megaboard Rear**
@@ -23,7 +23,7 @@ I am an Electrical Engineering student with a minor in Computer Engineering at P
   - Integration of high-speed components on the same board as sensitive analog circuits.
   - Integration of both high-voltage and low-voltage circuits on the same board while ensuring necessary isolation.
   - Includes an ESP32 microcontroller utilized for Over-The-Air (OTA) software updates and telemetry.
-- **3D Renderings:**
+- **3D Rendering:**
 ![Megaboard Rear V3](https://github.com/user-attachments/assets/dc5f0a8e-a62b-46da-9af8-53d992bfb4c7)
 
 ### 3. **BMS Segment PCB (ADBMS6830B)**
